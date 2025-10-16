@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea30de6b473f476ebe78c31b76f252b1, type: 3}
+  m_Name: ElementsConfig
+  m_EditorClassIdentifier: 
+  elementDatas:
+  - elementType: 2
+    sprites:
+    - {fileID: 21300000, guid: 09316f8228972cc41bd0c6d364691db8, type: 3}
+    - {fileID: 21300000, guid: 6ae0826787decae47887bb761989d67c, type: 3}
+    - {fileID: 21300000, guid: 42096ea6d22f07548ace1f9dcb8fd13f, type: 3}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    showcaseSprite: {fileID: 0}
+  - elementType: 4
+    sprites:
+    - {fileID: 21300000, guid: 624e29d88ffea8c4a949677d255c1b54, type: 3}
+    - {fileID: 21300000, guid: a99876aba2ef61f4d86376739321e1cc, type: 3}
+    - {fileID: 21300000, guid: bf6e994e9a0384945a35bb5af707f888, type: 3}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    showcaseSprite: {fileID: 0}
+  - elementType: 8
+    sprites:
+    - {fileID: 21300000, guid: 2c9555c500fb52847b04f6ee079aa7c4, type: 3}
+    - {fileID: 21300000, guid: 675dbbf4e8b1bfb43b35b1b2e06adce3, type: 3}
+    - {fileID: 21300000, guid: 5cecfbc6a437b4449bd1a67b9ae3e42a, type: 3}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    showcaseSprite: {fileID: 0}
+  - elementType: 16
+    sprites:
+    - {fileID: 21300000, guid: 72b1c418103bf844385e79f830c39457, type: 3}
+    - {fileID: 21300000, guid: d163ea3b33e273e4cb47e7c839b7cee8, type: 3}
+    - {fileID: 21300000, guid: ef0832f64c8918a4689f6ba23d1f4af9, type: 3}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    showcaseSprite: {fileID: 0}
+  - elementType: 32
+    sprites:
+    - {fileID: 21300000, guid: 9999be91327ab6746883a36f6b4ad235, type: 3}
+    - {fileID: 21300000, guid: 143a3d0dc3a423f4d991d2b6b690cea7, type: 3}
+    - {fileID: 21300000, guid: 80b11c70bc39f024392ac09d79c3b0f6, type: 3}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    showcaseSprite: {fileID: 0}
+  - elementType: 64
+    sprites:
+    - {fileID: 21300000, guid: 08317a92f2b83794584f19cf30aeb2df, type: 3}
+    - {fileID: 21300000, guid: 0acc72e42e250cc439a8f8cbc5ce2d60, type: 3}
+    - {fileID: 21300000, guid: 628d30f6ca6e7064c8fc70c488df307a, type: 3}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    showcaseSprite: {fileID: 0}
+  - elementType: 128
+    sprites:
+    - {fileID: 21300000, guid: 624e29d88ffea8c4a949677d255c1b54, type: 3}
+    - {fileID: 21300000, guid: a99876aba2ef61f4d86376739321e1cc, type: 3}
+    - {fileID: 21300000, guid: bf6e994e9a0384945a35bb5af707f888, type: 3}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    showcaseSprite: {fileID: 0}
+  - elementType: 256
+    sprites:
+    - {fileID: 21300000, guid: 09316f8228972cc41bd0c6d364691db8, type: 3}
+    - {fileID: 21300000, guid: 6ae0826787decae47887bb761989d67c, type: 3}
+    - {fileID: 21300000, guid: 42096ea6d22f07548ace1f9dcb8fd13f, type: 3}
+    - {fileID: 21300000, guid: 2c9555c500fb52847b04f6ee079aa7c4, type: 3}
+    - {fileID: 21300000, guid: 675dbbf4e8b1bfb43b35b1b2e06adce3, type: 3}
+    - {fileID: 21300000, guid: 5cecfbc6a437b4449bd1a67b9ae3e42a, type: 3}
+    color: {r: 1, g: 1, b: 1, a: 1}
+    showcaseSprite: {fileID: 0}
